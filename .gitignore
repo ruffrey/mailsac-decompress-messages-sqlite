@@ -1,4 +1,4 @@
-message_files/*
+message_files/*.eml
 node_modules
 *.sqlite
 *.db
